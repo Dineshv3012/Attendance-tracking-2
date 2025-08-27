@@ -1,0 +1,6 @@
+flask
+gunicorn
+firebase-admin
+requests
+pandas
+opencv-python
